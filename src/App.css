@@ -1,12 +1,11 @@
 .Navbar {
   font-size: 2em;
-  color: white;
   background-color: plum;
   display: flex;
   justify-content: space-around;
 }
 
-a {
+.Navbar a {
   color: white;
 }
 
